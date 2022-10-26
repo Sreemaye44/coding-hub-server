@@ -6,7 +6,9 @@
       "instructor": "T.Robert",
       "duration": "1 month",
       "fee": "50",
-      "students": "100"
+      "students": "100",
+      "intro": "C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. It keeps fluctuating at number one scale of popularity along with Java programming language, which is also equally popular and most widely used among modern software programmers.C programming language is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Software Development Domain."
+      
       
     },
     {
@@ -16,7 +18,8 @@
       "instructor": "Thomas.R",
       "duration": "1.5 months",
       "fee": "80",
-      "students": "60"
+      "students": "60",
+      "intro":"C++ is a statically typed, compiled, general-purpose, case-sensitive, free-form programming language that supports procedural, object-oriented, and generic programming.C++ is regarded as a middle-level language, as it comprises a combination of both high-level and low-level language features.C++ was developed by Bjarne Stroustrup starting in 1979 at Bell Labs in Murray Hill, New Jersey, as an enhancement to the C language and originally named C with Classes but later it was renamed C++ in 1983. C++ is a superset of C, and that virtually any legal C program is a legal C++ program.Note − A programming language is said to use static typing when type checking is performed during compile-time as opposed to run-time."
     },
     {
       "id": "3",
@@ -25,7 +28,8 @@
       "instructor": "Jackbert Don",
       "duration": "6 months",
       "fee": "150",
-      "students": "30"
+      "students": "30",
+      "intro": "This Python tutorial has been written for the beginners to help them understand the basic to advanced concepts of Python Programming Language. After completing this tutorial, you will find yourself at a great level of expertise in Python, from where you can take yourself to the next levels to become a world class Software Engineer.Python is a very popular general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python is dynamically-typed and garbage-collected programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL).This tutorial gives a complete understanding of Python programming language starting from basic conceopts to advanced concepts. This tutorial will take you through simple and practical approaches while learning Python Programming language."
     },
     {
       "id": "4",
@@ -34,7 +38,8 @@
       "instructor": "Ethel Devis",
       "duration": "3 months",
       "fee": "120",
-      "students": "100"
+      "students": "100",
+      "intro":"JavaScript is a lightweight, interpreted programming language with object-oriented capabilities that allows you to build interactivity into otherwise static HTML pages.JavaScript code is not compiled but translated by the translator. This translator is embedded into the browser and is responsible for translating javascript code.It is complementary to and integrated with HTML.It is an open and cross-platform.It is designed for creating network-centric applications.JavaScript statement constitutes the JavaScript code which is translated by the browser line by line."
     },
     {
       "id": "5",
@@ -43,7 +48,8 @@
       "instructor": "Fannie Rowe",
       "duration": "2 months",
       "fee": "150",
-      "students": "60"
+      "students": "60",
+      "intro": "The PHP Hypertext Preprocessor (PHP) is a programming language that allows web developers to create dynamic content that interacts with databases. PHP is basically used for developing web based software applications. This tutorial helps you to build your base with PHP. PHP started out as a small open source project that evolved as more and more people found out how useful it was. Rasmus Lerdorf unleashed the first version of PHP way back in 1994.PHP is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain.This PHP tutorial is designed for PHP programmers who are completely unaware of PHP concepts but they have basic understanding on computer programming."
     },
     {
       "id": "6",
@@ -52,6 +58,7 @@
       "instructor": "T.Robert",
       "duration": "4 months",
       "fee": "90",
-      "students": "100"
+      "students": "100",
+      "intro":"This Java Tutorial has been prepared by well experienced Java Programmers for the Software Engineers to help them understand the basic to advanced concepts of Java Programming Language. After completing this tutorial, you will find yourself at a moderate level of expertise in Java, from where you can take yourself to the next levels.Java is popular high-level, class-based object oriented programming language originally developed by Sun Microsystems and released in 1995. Currently Java is owned by Oracle and more than 3 billion devices run Java. Java runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. Java is used to develop Mobile apps, Web apps, Desktop apps, Games and much more."
     }
 ]
